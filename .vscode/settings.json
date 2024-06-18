@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "main.h": "c",
+        "mke16z4_lpuart.h": "c",
+        "stdbool.h": "c",
+        "fpt_emb_queue.h": "c",
+        "mke16z4_hal_lpuart.h": "c",
+        "mke16z4_clock.h": "c",
+        "mke16z4_core.h": "c",
+        "MKE16Z4.h": "c",
+        "mke16z4_def.h": "c",
+        "mke16z4_hal_flash.h": "c"
+    },
+    "C_Cpp.default.compilerPath": "C:\\mingw64\\bin\\gcc.exe"
+}

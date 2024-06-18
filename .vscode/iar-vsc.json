@@ -1,0 +1,11 @@
+{
+  "project": {
+    "path": "${workspaceFolder}\\Project\\MOV_ASM_#MOCK.ewp"
+  },
+  "configs": {
+    "${workspaceFolder}\\Project\\MOV_ASM_#MOCK.ewp": "Debug"
+  },
+  "workbench": {
+    "path": "C:\\\\Program Files\\\\IAR Systems\\\\Embedded Workbench 9.2"
+  }
+}

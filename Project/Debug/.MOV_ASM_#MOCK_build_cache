@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BuildDb>
+    <Tool>
+        <Name>linker</Name>
+        <Parent>
+            <Path>D:\Embedded\FPT\IAR Workspace\ASM_MOCK\Project\Debug\Exe\MOV_ASM_#MOCK.out</Path>
+            <Output>
+                <Path>D:\Embedded\FPT\IAR Workspace\ASM_MOCK\Project\Debug\List\MOV_ASM_#MOCK.map</Path>
+            </Output>
+        </Parent>
+    </Tool>
+</BuildDb>

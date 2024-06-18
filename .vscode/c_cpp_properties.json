@@ -1,0 +1,38 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "${workspaceFolder}/source/MKE16Z4_HAL_Driver/Driver_Inc",
+                "${workspaceFolder}/source/MKE16Z4_HAL_Driver/HAL",
+                "${workspaceFolder}/source/SREC/Inc",
+                "${workspaceFolder}/MKE16Z4",
+                "${workspaceFolder}/CMSIS/Include",
+                "${workspaceFolder}/source/Bootloader/Inc",
+                "${workspaceFolder}/source/Utility",
+                "${workspaceFolder}/source/Queue/Inc"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "compilerPath": "C:\\mingw64\\bin\\gcc.exe",
+            "cppStandard": "gnu++17",
+            "browse": {
+                "path": [
+                    "D:\\Embedded\\FPT\\IAR Workspace\\ASM_MOCK\\MKE16Z4",
+                    "D:\\Embedded\\FPT\\IAR Workspace\\ASM_MOCK\\CMSIS/Include",
+                    "D:\\Embedded\\FPT\\IAR Workspace\\ASM_MOCK\\source\\MKE16Z4_HAL_Driver\\HAL",
+                    "D:\\Embedded\\FPT\\IAR Workspace\\ASM_MOCK\\source\\MKE16Z4_HAL_Driver\\Driver_Inc",
+                    "D:\\Embedded\\FPT\\IAR Workspace\\ASM_MOCK\\source\\SREC\\Inc",
+                    "D:\\Embedded\\FPT\\IAR Workspace\\ASM_MOCK\\source\\Bootloader\\Inc",
+                    "D:\\Embedded\\FPT\\IAR Workspace\\ASM_MOCK\\source\\Utility",
+                    "D:\\Embedded\\FPT\\IAR Workspace\\ASM_MOCK\\source\\Queue\\Inc"
+                ]
+            }
+        }
+    ],
+    "version": 4
+}
